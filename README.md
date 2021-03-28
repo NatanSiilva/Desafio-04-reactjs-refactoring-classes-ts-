@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://gorestaurante.netlify.com">Demo</a> -->
 </div>
 
 <h1 align="center">GoRestaurante</h1>
@@ -17,20 +16,7 @@
 
   <img alt="Licença" src="https://img.shields.io/github/license/thiagonmiziara/gorestaurante?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiagonmiziara/gorestaurante?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiagonmiziara/gorestaurante?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiagonmiziara/gorestaurante?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  GoRestaurante 🚀 Em construção...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -72,7 +58,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiagonmiziara/gorestaurante
+$ git clone https://github.com/NatanSiilva/gorestaurante
 
 # Entre na pasta
 $ cd gorestaurante
@@ -91,7 +77,7 @@ $ yarn start
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com :heart: por <a href="https://github.com/thiagonmiziara" target="_blank">thiagonmiziara</a>
+Feito com :heart: por <a href="https://github.com/NatanSilva" target="_blank">Natanael Silva</a>
 
 &#xa0;
 
